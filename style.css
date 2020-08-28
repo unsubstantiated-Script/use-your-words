@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Noto+Sans&display=swap');
+
+:root {
+    --first-color: #665341;
+    --second-color: #B0A491;
+    --third-color: #D1E2E3;
+    --fourth-color: #A9D4D9;
+    --fifth-color: #80C4C9;
+}
+
+* {
+    box-sizing: border-box;
+}
