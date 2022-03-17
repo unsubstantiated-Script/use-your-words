@@ -6,7 +6,7 @@ Code for a small Traversy Project I modified to implement speech recognition
 
 Challenges faced:
 
--
+- None Javascript is fun!
 
 ## Contributors
 
